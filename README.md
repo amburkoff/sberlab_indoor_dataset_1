@@ -1,0 +1,2 @@
+# sberlab_indoor_dataset_1
+Dataset for paper DNN-BASED  INDOOR  SEMANTIC  MAPPING  FOR  AUTONOMOUS NAVIGATION  ROBOTS
